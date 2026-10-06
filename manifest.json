@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0-beta.1",
-  "download_url": "https://github.com/Tikz-Physics/T-STEM-Releases/releases/download/v1.0.0-beta.1/T-STEM-1.0.0-beta.1-Setup.exe",
-  "checksum_sha256": "51206e010e63889c89de4d9b79c489a8b20369cfebf7d558a07af796d881601b",
-  "changelog": "- Bản thử nghiệm đầu tiên của T-STEM: 143 mô hình Toán – Vật lí (25 mô hình miễn phí), dùng thử Pro 14 ngày, tự cập nhật.",
+  "version": "1.0.0-beta.2",
+  "download_url": "https://github.com/Tikz-Physics/T-STEM-Releases/releases/download/v1.0.0-beta.2/T-STEM-1.0.0-beta.2-Setup.exe",
+  "checksum_sha256": "bf5595d437e319a73f95157ebaf9c5bafe69654d7300fdf8288fd0afd44c427f",
+  "changelog": "- Hỗ trợ khóa trải nghiệm dùng chung (để trống ô Email khi kích hoạt).\n- Sửa lỗi kích hoạt khóa không gắn email.",
   "required": false,
-  "signature": "139570fa5de491ecb9369ccae3fa179516bcc1f9e798e5fd164d54f1cf3e2aecfb735a12665f0cbe4963f4074ab304231f4d361bd20491ee08d442f96e6eb607"
+  "signature": "0c8d8f36d249b5e7d89bec91781047b663d81ead8836393ab70c917ac63c4cf59b1edd352d55a39b01fe18b5b180c8ff64cb63aba1b53169f474398c42111806"
 }
