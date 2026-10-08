@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0-beta.2",
-  "download_url": "https://github.com/Tikz-Physics/T-STEM-Releases/releases/download/v1.0.0-beta.2/T-STEM-1.0.0-beta.2-Setup.exe",
-  "checksum_sha256": "bf5595d437e319a73f95157ebaf9c5bafe69654d7300fdf8288fd0afd44c427f",
-  "changelog": "- Hỗ trợ khóa trải nghiệm dùng chung (để trống ô Email khi kích hoạt).\n- Sửa lỗi kích hoạt khóa không gắn email.",
+  "version": "1.0.0-beta.3",
+  "download_url": "https://github.com/Tikz-Physics/T-STEM-Releases/releases/download/v1.0.0-beta.3/T-STEM-1.0.0-beta.3-Setup.exe",
+  "checksum_sha256": "60cfa719c4c935c275ed52afd97030a96fc54af9ab41d6665d46ff3433cd3413",
+  "changelog": "- Nút Chữ tắt toàn bộ chữ trên hình để trình chiếu gọn.\n- Ẩn/hiện thanh nút trên hình bằng phím H hoặc chuột phải.\n- Trình chiếu (F11) có nút Thoát ngay trên hình; Esc để thoát, hình trở lại đúng cỡ và vị trí cũ.",
   "required": false,
-  "signature": "0c8d8f36d249b5e7d89bec91781047b663d81ead8836393ab70c917ac63c4cf59b1edd352d55a39b01fe18b5b180c8ff64cb63aba1b53169f474398c42111806"
+  "signature": "dbf9780dc27d16fbbf7957c6e1b15f47dc011bddc835df131c7860fdfbe2710fe6a998e2ff11a014a1989df8ca6eb02d52ce6d6e4484be93ffba97dc028f4209"
 }
