@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0-beta.4",
-  "download_url": "https://github.com/Tikz-Physics/T-STEM-Releases/releases/download/v1.0.0-beta.4/T-STEM-1.0.0-beta.4-Setup.exe",
-  "checksum_sha256": "87a48527c5fc633173ffe5b59c29992ab7fb479a63e04f10c8817cb805df7718",
-  "changelog": "- Chuyển máy chủ bản quyền sang dự án riêng của T-STEM (kích hoạt khóa ổn định hơn).",
+  "version": "1.0.0-beta.5",
+  "download_url": "https://github.com/Tikz-Physics/T-STEM-Releases/releases/download/v1.0.0-beta.5/T-STEM-1.0.0-beta.5-Setup.exe",
+  "checksum_sha256": "3f179503142d112fad7a6de4d27651baeaf89f39579f2652bf5b1a5ad73e89db",
+  "changelog": "- Bản Pro cần Internet ít nhất 3 ngày một lần để xác minh; nút Bản quyền hiện số ngày còn lại.\n- Có Internet lại là Pro tự mở, không phải nhập lại khóa. Thêm nút Kiểm tra lại ngay.\n- Tăng cường chống giả mạo tệp bản quyền.",
   "required": false,
-  "signature": "ac2f62a8eda3594c462300c5d54a591a3a2248b5b69ed4cc92edf3356d0c4c9be882b0901f23b75973ab54c935f69e74166b994ada26b6f35483f47fe198f60b"
+  "signature": "3543d7b6aad8cce9f6eb1bdceb0e8f2c292ac7e084b4d8ce6e01f3f34cb6d9e4058c4d27244964fff0ea2ed16541fa4f21d59f696392319b98f37cb116196603"
 }
