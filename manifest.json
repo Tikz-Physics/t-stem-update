@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0-beta.5",
-  "download_url": "https://github.com/Tikz-Physics/T-STEM-Releases/releases/download/v1.0.0-beta.5/T-STEM-1.0.0-beta.5-Setup.exe",
-  "checksum_sha256": "3f179503142d112fad7a6de4d27651baeaf89f39579f2652bf5b1a5ad73e89db",
-  "changelog": "- Bản Pro cần Internet ít nhất 3 ngày một lần để xác minh; nút Bản quyền hiện số ngày còn lại.\n- Có Internet lại là Pro tự mở, không phải nhập lại khóa. Thêm nút Kiểm tra lại ngay.\n- Tăng cường chống giả mạo tệp bản quyền.",
+  "version": "1.0.0-beta.6",
+  "download_url": "https://github.com/Tikz-Physics/T-STEM-Releases/releases/download/v1.0.0-beta.6/T-STEM-1.0.0-beta.6-Setup.exe",
+  "checksum_sha256": "b85725f216f0fbdf5099d81a26db15cb4083a2209bc9538ea6dfd04fba26ad78",
+  "changelog": "- Phím tắt mới, không trùng Word/PowerPoint: Ctrl+Alt+Q (Quét), Ctrl+Alt+W (Kéo ↔ Bút), Ctrl+Alt+T (Thanh công cụ), Ctrl+Alt+X (Ẩn/hiện hình).\n- Sửa lỗi Quét đề bằng AI báo HTTP 400.\n- Công thức hiện như sách giáo khoa: chỉ số dưới/trên, dấu căn, phân số, số thập phân dấu phẩy.\n- Chữ trên hình dùng font Segoe UI Variable; màu chữ tự đổi Sáng/Tối theo nền.\n- Chữ không tràn khung khi chọn cỡ chữ To/Rất to; thanh công cụ tự thu gọn vừa màn hình.",
   "required": false,
-  "signature": "3543d7b6aad8cce9f6eb1bdceb0e8f2c292ac7e084b4d8ce6e01f3f34cb6d9e4058c4d27244964fff0ea2ed16541fa4f21d59f696392319b98f37cb116196603"
+  "signature": "0b53202b118b6ec8b45bac37c7e72e00074a2ee21c12982d507d34197b62e6e9bfe5add926de3177d0d3ad970781dc750f17b9941f17b97ef10138554fc85a0f"
 }
